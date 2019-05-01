@@ -1,0 +1,15 @@
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\MySensingApp.exe
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\MySensingApp.pdb
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.csprojResolveAssemblyReference.cache
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.Form1.resources
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.Properties.Resources.resources
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.csproj.GenerateResource.Cache
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.exe
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\obj\x86\Debug\MySensingApp.pdb
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\Itri.Vmx.App.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\Itri.Vmx.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\IVmx2Robot.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\IVmx2Plc.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\NLog.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\IVmx2Cnc.dll
+c:\users\chintei\documents\visual studio 2010\Projects\VMXDEMO\MySensingApp\bin\Debug\NLog.xml

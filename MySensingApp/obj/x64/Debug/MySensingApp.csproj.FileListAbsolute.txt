@@ -1,0 +1,9 @@
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\MySensingApp.pdb
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\Itri.Vmx.App.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\Itri.Vmx.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\IVmx2Cnc.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\IVmx2Plc.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\IVmx2Robot.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\NLog.dll
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\NLog.xml
+C:\Users\Chintei\Documents\Visual Studio 2010\Projects\VMXDEMO\MySensingApp\bin\x64\Debug\MySensingApp.dll
